@@ -5,3 +5,8 @@ f = 1
 	puts f
 	f += 1
 end
+g = 1
+while g < 101
+	puts g
+	g += 1
+end
