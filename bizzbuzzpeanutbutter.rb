@@ -10,4 +10,4 @@ while peanutbuttercounter < 100
 		print "Butter "
 	end
 	puts " "
-end
+end 
