@@ -1,4 +1,4 @@
-#puts "Hello world!" |
+puts "Hello world!"
 
 f = 1
 10.times do
