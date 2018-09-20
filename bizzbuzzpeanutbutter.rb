@@ -4,10 +4,10 @@ while peanutbuttercounter < 100
 	print "#{peanutbuttercounter} "
 	puts " "
 	if peanutbuttercounter % 3 == 0
-		print "Peanut"
+		print "peanut"
 	end
 	if peanutbuttercounter % 5 == 0
-		print "Butter"
+		print "butter"
 	end
 	puts " "
 end
