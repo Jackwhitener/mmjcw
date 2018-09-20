@@ -35,7 +35,7 @@ def gotoschool
 end
 
 4.times do
-  wakeup(5)\
+  wakeup(5)
   shower(50)
   brushteeth(1)
   getdressed()
